@@ -38,14 +38,6 @@
 	path = Laboratorios/Evolucion-de-Arquitecturas-Distribuidas-con-Java-ARSW
 	url = https://github.com/JuanGuayazanC/Evolucion-de-Arquitecturas-Distribuidas-con-Java-ARSW.git
 	branch = main
-[submodule "Laboratorios/Lab_P1_BluePrints_Java21_API"]
-	path = Laboratorios/Lab_P1_BluePrints_Java21_API
-	url = https://github.com/JuanGuayazanC/Lab_P1_BluePrints_Java21_API.git
-	branch = main
-[submodule "Laboratorios/Lab_P4_BluePrints_RealTime-Sokets"]
-	path = Laboratorios/Lab_P4_BluePrints_RealTime-Sokets
-	url = https://github.com/JuanGuayazanC/Lab_P4_BluePrints_RealTime-Sokets.git
-	branch = main
 [submodule "Laboratorios/Alta-disponibilidad-ARSW"]
 	path = Laboratorios/Alta-disponibilidad-ARSW
 	url = https://github.com/JuanGuayazanC/Alta-disponibilidad-ARSW.git
@@ -57,14 +49,6 @@
 [submodule "Laboratorios/Escalabilidad-ARSW"]
 	path = Laboratorios/Escalabilidad-ARSW
 	url = https://github.com/JuanGuayazanC/Escalabilidad-ARSW.git
-	branch = main
-[submodule "Recursos/example-backend-socketio-node-"]
-	path = Recursos/example-backend-socketio-node-
-	url = https://github.com/JuanGuayazanC/example-backend-socketio-node-.git
-	branch = main
-[submodule "Recursos/example-backend-stopm"]
-	path = Recursos/example-backend-stopm
-	url = https://github.com/JuanGuayazanC/example-backend-stopm.git
 	branch = main
 [submodule "Proyectos/RaceFlow/raceflow-frontend"]
 	path = Proyectos/RaceFlow/raceflow-frontend
