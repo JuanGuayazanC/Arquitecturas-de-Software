@@ -21,14 +21,14 @@ Arquitecturas-de-Software/
 │   ├── wait-notify-excercise/
 │   ├── BarrierSyncProblem-ARSW/
 │   ├── Evolucion-de-Arquitecturas-Distribuidas-con-Java-ARSW/
-│   ├── Lab_P1_BluePrints_Java21_API/
-│   ├── Lab_P4_BluePrints_RealTime-Sokets/
+│   ├── BluePrints/                                           # Labs de BluePrints + sus backends de ejemplo
+│   │   ├── Lab_P1_BluePrints_Java21_API/
+│   │   ├── Lab_P4_BluePrints_RealTime-Sokets/
+│   │   ├── example-backend-socketio-node-/
+│   │   └── example-backend-stopm/
 │   ├── Alta-disponibilidad-ARSW/
 │   ├── Observabilidad-ARSW/
 │   └── Escalabilidad-ARSW/
-├── Recursos/                                                 # Submódulos — backends de ejemplo para Lab_P4
-│   ├── example-backend-socketio-node-/
-│   └── example-backend-stopm/
 └── Proyectos/
     └── RaceFlow/                                             # Submódulos — organización RaceFlowECI
         ├── raceflow-frontend/
@@ -64,7 +64,7 @@ El curso recorre el diseño y la operación de arquitecturas de software distrib
 
 - Cada repositorio corresponde a una actividad puntual (trabajo en clase, tarea, taller, laboratorio o parcial); el tipo de actividad está indicado en la descripción de cada repositorio, no en su nombre.
 - Varios de los repositorios de laboratorio conservan sus ramas `develop`/`main` (y en algunos casos `develop-es`) del flujo de trabajo original; `main` es la rama que se referencia aquí como submódulo.
-- Los repositorios en `Recursos/` son backends de ejemplo (Socket.IO y STOMP) usados como referencia para el laboratorio de colaboración en tiempo real (`Lab_P4_BluePrints_RealTime-Sokets`), no actividades evaluadas por sí solas.
+- Dentro de `Laboratorios/BluePrints/`, `example-backend-socketio-node-` y `example-backend-stopm` son backends de ejemplo (Socket.IO y STOMP) usados como referencia para el laboratorio de colaboración en tiempo real (`Lab_P4_BluePrints_RealTime-Sokets`), no actividades evaluadas por sí solas.
 - El proyecto del curso, **RaceFlow**, es una plataforma de organización de carreras/eventos en tiempo real construida como un sistema de microservicios (frontend, API Gateway, autenticación, salas, tiempo real, sesiones, métricas y observabilidad). Su código vive en la organización [RaceFlowECI](https://github.com/RaceFlowECI).
 
 ## Herramientas

@@ -82,3 +82,19 @@
 	path = Proyectos/RaceFlow/raceflow-observability
 	url = https://github.com/RaceFlowECI/raceflow-observability.git
 	branch = main
+[submodule "Laboratorios/BluePrints/Lab_P1_BluePrints_Java21_API"]
+	path = Laboratorios/BluePrints/Lab_P1_BluePrints_Java21_API
+	url = https://github.com/JuanGuayazanC/Lab_P1_BluePrints_Java21_API.git
+	branch = main
+[submodule "Laboratorios/BluePrints/Lab_P4_BluePrints_RealTime-Sokets"]
+	path = Laboratorios/BluePrints/Lab_P4_BluePrints_RealTime-Sokets
+	url = https://github.com/JuanGuayazanC/Lab_P4_BluePrints_RealTime-Sokets.git
+	branch = main
+[submodule "Laboratorios/BluePrints/example-backend-socketio-node-"]
+	path = Laboratorios/BluePrints/example-backend-socketio-node-
+	url = https://github.com/JuanGuayazanC/example-backend-socketio-node-.git
+	branch = main
+[submodule "Laboratorios/BluePrints/example-backend-stopm"]
+	path = Laboratorios/BluePrints/example-backend-stopm
+	url = https://github.com/JuanGuayazanC/example-backend-stopm.git
+	branch = main
