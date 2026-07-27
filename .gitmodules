@@ -1,0 +1,100 @@
+[submodule "TrabajosEnClase/MATRIX-Simulation-ARSW"]
+	path = TrabajosEnClase/MATRIX-Simulation-ARSW
+	url = https://github.com/JuanGuayazanC/MATRIX-Simulation-ARSW.git
+	branch = main
+[submodule "TrabajosEnClase/ESTILOS-CALL-RETURN-ARSW"]
+	path = TrabajosEnClase/ESTILOS-CALL-RETURN-ARSW
+	url = https://github.com/JuanGuayazanC/ESTILOS-CALL-RETURN-ARSW.git
+	branch = main
+[submodule "TrabajosEnClase/reddis-ARSW"]
+	path = TrabajosEnClase/reddis-ARSW
+	url = https://github.com/JuanGuayazanC/reddis-ARSW.git
+	branch = main
+[submodule "Tareas/java-go-concurrency-benchmark-ARSW"]
+	path = Tareas/java-go-concurrency-benchmark-ARSW
+	url = https://github.com/JuanGuayazanC/java-go-concurrency-benchmark-ARSW.git
+	branch = main
+[submodule "Talleres/KAFKA-ARSW"]
+	path = Talleres/KAFKA-ARSW
+	url = https://github.com/JuanGuayazanC/KAFKA-ARSW.git
+	branch = main
+[submodule "Parciales/Parcial-T1-ARSW"]
+	path = Parciales/Parcial-T1-ARSW
+	url = https://github.com/JuanGuayazanC/Parcial-T1-ARSW.git
+	branch = main
+[submodule "Laboratorios/Lab_SnakeRace-Java21"]
+	path = Laboratorios/Lab_SnakeRace-Java21
+	url = https://github.com/JuanGuayazanC/Lab_SnakeRace-Java21.git
+	branch = main
+[submodule "Laboratorios/wait-notify-excercise"]
+	path = Laboratorios/wait-notify-excercise
+	url = https://github.com/JuanGuayazanC/wait-notify-excercise.git
+	branch = master
+[submodule "Laboratorios/BarrierSyncProblem-ARSW"]
+	path = Laboratorios/BarrierSyncProblem-ARSW
+	url = https://github.com/JuanGuayazanC/BarrierSyncProblem-ARSW.git
+	branch = main
+[submodule "Laboratorios/Evolucion-de-Arquitecturas-Distribuidas-con-Java-ARSW"]
+	path = Laboratorios/Evolucion-de-Arquitecturas-Distribuidas-con-Java-ARSW
+	url = https://github.com/JuanGuayazanC/Evolucion-de-Arquitecturas-Distribuidas-con-Java-ARSW.git
+	branch = main
+[submodule "Laboratorios/Lab_P1_BluePrints_Java21_API"]
+	path = Laboratorios/Lab_P1_BluePrints_Java21_API
+	url = https://github.com/JuanGuayazanC/Lab_P1_BluePrints_Java21_API.git
+	branch = main
+[submodule "Laboratorios/Lab_P4_BluePrints_RealTime-Sokets"]
+	path = Laboratorios/Lab_P4_BluePrints_RealTime-Sokets
+	url = https://github.com/JuanGuayazanC/Lab_P4_BluePrints_RealTime-Sokets.git
+	branch = main
+[submodule "Laboratorios/Alta-disponibilidad-ARSW"]
+	path = Laboratorios/Alta-disponibilidad-ARSW
+	url = https://github.com/JuanGuayazanC/Alta-disponibilidad-ARSW.git
+	branch = main
+[submodule "Laboratorios/Observabilidad-ARSW"]
+	path = Laboratorios/Observabilidad-ARSW
+	url = https://github.com/JuanGuayazanC/Observabilidad-ARSW.git
+	branch = main
+[submodule "Laboratorios/Escalabilidad-ARSW"]
+	path = Laboratorios/Escalabilidad-ARSW
+	url = https://github.com/JuanGuayazanC/Escalabilidad-ARSW.git
+	branch = main
+[submodule "Recursos/example-backend-socketio-node-"]
+	path = Recursos/example-backend-socketio-node-
+	url = https://github.com/JuanGuayazanC/example-backend-socketio-node-.git
+	branch = main
+[submodule "Recursos/example-backend-stopm"]
+	path = Recursos/example-backend-stopm
+	url = https://github.com/JuanGuayazanC/example-backend-stopm.git
+	branch = main
+[submodule "Proyectos/RaceFlow/raceflow-frontend"]
+	path = Proyectos/RaceFlow/raceflow-frontend
+	url = https://github.com/RaceFlowECI/raceflow-frontend.git
+	branch = main
+[submodule "Proyectos/RaceFlow/raceflow-api-gateway"]
+	path = Proyectos/RaceFlow/raceflow-api-gateway
+	url = https://github.com/RaceFlowECI/raceflow-api-gateway.git
+	branch = main
+[submodule "Proyectos/RaceFlow/raceflow-auth-service"]
+	path = Proyectos/RaceFlow/raceflow-auth-service
+	url = https://github.com/RaceFlowECI/raceflow-auth-service.git
+	branch = main
+[submodule "Proyectos/RaceFlow/raceflow-room-service"]
+	path = Proyectos/RaceFlow/raceflow-room-service
+	url = https://github.com/RaceFlowECI/raceflow-room-service.git
+	branch = main
+[submodule "Proyectos/RaceFlow/raceflow-realtime-service"]
+	path = Proyectos/RaceFlow/raceflow-realtime-service
+	url = https://github.com/RaceFlowECI/raceflow-realtime-service.git
+	branch = main
+[submodule "Proyectos/RaceFlow/raceflow-session-service"]
+	path = Proyectos/RaceFlow/raceflow-session-service
+	url = https://github.com/RaceFlowECI/raceflow-session-service.git
+	branch = main
+[submodule "Proyectos/RaceFlow/raceflow-metrics-service"]
+	path = Proyectos/RaceFlow/raceflow-metrics-service
+	url = https://github.com/RaceFlowECI/raceflow-metrics-service.git
+	branch = main
+[submodule "Proyectos/RaceFlow/raceflow-observability"]
+	path = Proyectos/RaceFlow/raceflow-observability
+	url = https://github.com/RaceFlowECI/raceflow-observability.git
+	branch = main
