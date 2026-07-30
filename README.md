@@ -1,6 +1,8 @@
-# Arquitecturas de Software
+# Arquitecturas de Software (ARSW)
 
-Repositorio general del curso: consolida los temas y conceptos vistos, y agrupa las actividades académicas (trabajos en clase, tareas, talleres, laboratorios y parcial) como [submódulos de git](https://git-scm.com/book/en/v2/Git-Tools-Submodules). El proyecto del curso (RaceFlow) se desarrolló como un sistema de microservicios en tiempo real, alojado en su propia organización de GitHub.
+Repositorio general del curso Arquitecturas de Software (ISIS ARSW-101), que agrupa —mediante submódulos de git— las actividades académicas (trabajos en clase, tareas, talleres, laboratorios y parcial) y el proyecto del curso.
+
+Cada submódulo es un repositorio independiente con su propio historial de commits y README. Para clonar este repositorio junto con todo su contenido, ver [Cómo clonar](#cómo-clonar).
 
 ## Estructura del proyecto
 
