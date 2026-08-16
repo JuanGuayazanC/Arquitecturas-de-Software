@@ -30,7 +30,8 @@ Arquitecturas-de-Software/
 │   │   └── example-backend-stopm/
 │   ├── Alta-disponibilidad-ARSW/
 │   ├── Observabilidad-ARSW/
-│   └── Escalabilidad-ARSW/
+│   ├── Escalabilidad-ARSW/
+│   └── Pruebas-ARSW/                                          # Estrategia de pruebas por capas: unitarias, API, integración, E2E, carga y CI/CD
 └── Proyectos/
     └── RaceFlow/                                             # Submódulos — organización RaceFlowECI
         ├── raceflow-frontend/
