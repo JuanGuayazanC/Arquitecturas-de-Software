@@ -98,7 +98,7 @@
 	path = Laboratorios/BluePrints/example-backend-stopm
 	url = https://github.com/JuanGuayazanC/example-backend-stopm.git
 	branch = main
-[submodule "Pruebas-ARSW"]
-	path = Pruebas-ARSW
+[submodule "Laboratorios/Pruebas-ARSW"]
+	path = Laboratorios/Pruebas-ARSW
 	url = https://github.com/JuanGuayazanC/Pruebas-ARSW.git
 	branch = main
