@@ -80,6 +80,10 @@ El curso recorre el diseño y la operación de arquitecturas de software distrib
 - **AWS** (EC2 Auto Scaling, Application Load Balancer, CloudWatch) y **Terraform** — infraestructura en la nube.
 - **Prometheus, Loki y Grafana** — observabilidad.
 
+## Profesor
+
+Rodrigo Humberto Gualtero Martínez.
+
 ## Cómo usar este repositorio
 
 Este repositorio no contiene código directamente: es una colección de repositorios independientes, uno por actividad, organizados por carpetas (`TrabajosEnClase/`, `Tareas/`, `Talleres/`, `Parciales/`, `Laboratorios/`, `Proyectos/`). Cada carpeta es un submódulo de git que apunta al repositorio real de esa actividad.
